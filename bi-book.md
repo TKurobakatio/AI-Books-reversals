@@ -2526,7 +2526,7 @@ K线越大，突破越可能成功。
 *3. Major Trend Reversal*
 
 
-有许多机构做的是长期投资，它们把价格强势跌破多头趋势线的每一次走势都看成买入机会，因为它们知道空头会不断尝试反转趋势，但80％的情况下会失败。即使空头的急速行情又大又强，并且远远跌到趋势线和移动平均线下方，它们照样会买。它们希望自己的买盘能提供领导者角色，让其他交易者看到之后也跟着买。至少，它们预期接下来这波上涨会测试市场顶部下方的突破点。一旦价格到了那里，它们才会判断趋势是否已经反转。如果趋势确实反转了，它们就会停止买入，转而平掉新建立的多头头寸，并且连带平掉一路做多买进来的全部多头头寸。它们的大部分持仓是盈利的，因为那些仓位是很久以前、在比最后一次入场低得多的地方买的。不过，由于它们是在趋势持续上涨的过程中不断买入的，其中一部分仓位是在多头顶部买的，退出时就会亏损。一旦这些长期投资的机构认为市场要往下跌，趋势就会反转，因为此前每一次急速抛售都是它们在买，而现在再也没有人愿意接住强劲的空头急速行情了。它们会一直等到自己认为空头趋势已经走到一个长期价值区，那总会是一个长期支撑区，比如一条月线趋势线。到了那里，它们会再度积极买入，并且空头此后每一次试图延伸空头趋势的尝试，它们都会接着买。到了某个时点，其他机构看到支撑正在形成，也会跟着买入。很快就会出现一段强劲的多头急速行情，接着是一次回撤到空头低点的回调，然后反转进入新的多头趋势。
+有许多机构做的是长期投资，它们把价格强势跌破多头趋势线的每一次走势都看成买入机会，因为它们知道空头会不断尝试反转趋势，但80%的情况下会失败。即使空头的急速行情又大又强，并且远远跌到趋势线和移动平均线下方，它们照样会买。它们希望自己的买盘能提供领导者角色，让其他交易者看到之后也跟着买。至少，它们预期接下来这波上涨会测试市场顶部下方的突破点。一旦价格到了那里，它们才会判断趋势是否已经反转。如果趋势确实反转了，它们就会停止买入，转而平掉新建立的多头头寸，并且连带平掉一路做多买进来的全部多头头寸。它们的大部分持仓是盈利的，因为那些仓位是很久以前、在比最后一次入场低得多的地方买的。不过，由于它们是在趋势持续上涨的过程中不断买入的，其中一部分仓位是在多头顶部买的，退出时就会亏损。一旦这些长期投资的机构认为市场要往下跌，趋势就会反转，因为此前每一次急速抛售都是它们在买，而现在再也没有人愿意接住强劲的空头急速行情了。它们会一直等到自己认为空头趋势已经走到一个长期价值区，那总会是一个长期支撑区，比如一条月线趋势线。到了那里，它们会再度积极买入，并且空头此后每一次试图延伸空头趋势的尝试，它们都会接着买。到了某个时点，其他机构看到支撑正在形成，也会跟着买入。很快就会出现一段强劲的多头急速行情，接着是一次回撤到空头低点的回调，然后反转进入新的多头趋势。
 
 
 > There are many institutions that invest for the long term and view every strong break below the bull trend line as a buying opportunity, because they know that the bears will constantly try to reverse the trend but will fail 80 percent of the time. They will buy even if the bear spike is huge and strong, and goes far below the trend line and the moving average. They hope that their buying will provide the leadership that other traders need to see before they will also buy. At a minimum, they expect the rally to test the breakout point below the market top. Once there, they will decide if the trend has reversed. If so, they will stop buying and instead will exit their new longs as well as all of the other longs that they bought all the way up. Most of their position was profitable because they bought it long ago, far below their last entry. However, since they are buying as the trend continues up, they bought some of their position at the top of the bull and will take a loss when they exit. Once these long-term investing institutions believe that the market is going lower, the trend will reverse, because they were the traders who previously bought every sharp sell-off, and now there is no one left to buy strong bear spikes. They will wait until they believe that the bear trend has reached a long-term value area, which will always be at a long-term support area, like a monthly trend line. Once there, they will buy aggressively again, and they will buy every further attempt by the bears to extend the bear trend. At some point, other institutions will see the support forming and they will also buy. There will soon be a strong bull spike, a pullback that tests the bear low, and then a reversal into a new bull trend.
@@ -2538,7 +2538,7 @@ K线越大，突破越可能成功。
 > Every reversal pattern is some kind of trading range, and therefore has two-sided trading until it is clear that the countertrend traders have gained control. The term major trend reversal means different things to different traders, and no one can say with certainty that the trend has reversed until the move has gone on for at least enough bars for the always-in position to change direction in the eyes of most traders. However, that alone is not enough for a reversal to be labeled “major.” The always-in position changes with every tradable swing on the 5 minute chart for many traders, which means that it changes many times a day on most days, even though the dominant trend usually remains the same. A major trend reversal means that there are two trends on the chart in front of you, with a reversal in between them where either a bull trend has reversed into a bear trend or a bear trend has reversed into a bull trend. This type of reversal is different from the many up and down reversals on the chart that usually move far enough for a trade, but not far enough to change the direction of the major trend. Also, those minor reversals happen whether or not there is an obvious trend on the screen.
 
 
-大多数主要趋势反转最早的信号，成功概率很低，但回报最大，往往是风险的许多倍。市场在最初阶段常常大体是横盘，夹杂许多回调；但如果趋势确实在反转，新趋势很快就会变得明显。许多交易者宁愿等趋势明朗了再入场。这些交易者只做成功率至少60％的交易，也愿意为了更高的成功率而少赚一些（因为他们是在行情已经启动之后才入场的）。只要做得当，两种做法都有正的交易者等式，所以两者都合理。
+大多数主要趋势反转最早的信号，成功概率很低，但回报最大，往往是风险的许多倍。市场在最初阶段常常大体是横盘，夹杂许多回调；但如果趋势确实在反转，新趋势很快就会变得明显。许多交易者宁愿等趋势明朗了再入场。这些交易者只做成功率至少60%的交易，也愿意为了更高的成功率而少赚一些（因为他们是在行情已经启动之后才入场的）。只要做得当，两种做法都有正的交易者等式，所以两者都合理。
 
 
 > The earliest signals for most major trend reversals have a low probability of success, but offer the largest reward, often many times greater than the risk. The market is often mostly sideways at the outset, with many pullbacks, but if the trend is actually reversing, the new trend will soon be obvious. Many traders prefer to wait to enter until the trend is clear. These traders prefer to only take trades with at least a 60 percent chance of success and are willing to make less (they are entering after the move has already begun) on the trade for the increased chance of success. Since both approaches have positive trader’s equations when done properly, both are reasonable.
@@ -2556,7 +2556,7 @@ K线越大，突破越可能成功。
 > 1. A trend on the chart in front of you. 2. A countertrend move (a reversal) that is strong enough to break the trend line and usually the moving average. 3. A test of the trend’s extreme, and then a second reversal (a higher high, a double top, or a lower high at the top of a bull trend, or a lower low, a double bottom, or a higher low at the bottom of a bear trend). 4. The second reversal going far enough for there to be a consensus that the trend has reversed. First, there has to be a trend on the screen in front of you, and then a countertrend move that is strong enough to break the major trend’s trend line, and preferably convincingly beyond the moving average. Next, the trend has to resume and test the old trend’s extreme, and then the market has to reverse again. For example, after there is a strong move down below the bull trend line in a bull trend, traders will watch the next rally. If the market turns down again in the area of the old high (from a lower high, double top, or higher high), the test was successful and traders will begin to suspect that the trend is reversing. Finally, the move down has to be strong enough for traders to believe that the market is in a bear trend. If the move down is in the form of a strong bear spike composed of many consecutive large bear trend bars, everyone will see the market as now being in a bear trend. However, the market will instead often be in a broad bear channel for 50 or more bars, without enough clarity to convince traders that the trend has truly reversed to down. They may wonder if it instead has evolved into a large trading range, which will often be the case. In the absence of a very strong bear spike, there will not be strong agreement that the trend has reversed until after dozens of bars and a series of lower highs and lows. At this point, the market can be far below the old bull high and there might not be much more left to the bear trend.
 
 
-市场对反转形成共识，往往远在市场真正反转之后才出现，这并不重要，因为往下走的这一路上到处都是交易机会。如果这段下跌不清晰、又是双向的，交易者就会像对待任何双向市场一样对待它，两个方向都做。如果它是一段非常强劲的空头趋势，交易者几乎只做空。既然一路下跌都有交易机会，那交易者为什么还要去想主要趋势反转呢？因为如果交易者在市场刚从对旧高点的测试转向下跌时就早早入场，交易者等式会非常出色。回报往往是风险的许多倍，即使概率只有40％到50％，算下来也是极为有利的交易者等式。多数反转最终都会演变成交易区间，但仍然是能赚钱的交易。
+市场对反转形成共识，往往远在市场真正反转之后才出现，这并不重要，因为往下走的这一路上到处都是交易机会。如果这段下跌不清晰、又是双向的，交易者就会像对待任何双向市场一样对待它，两个方向都做。如果它是一段非常强劲的空头趋势，交易者几乎只做空。既然一路下跌都有交易机会，那交易者为什么还要去想主要趋势反转呢？因为如果交易者在市场刚从对旧高点的测试转向下跌时就早早入场，交易者等式会非常出色。回报往往是风险的许多倍，即使概率只有40%到50%，算下来也是极为有利的交易者等式。多数反转最终都会演变成交易区间，但仍然是能赚钱的交易。
 
 
 > It does not matter that agreement about the reversal often does not come until long after the market has actually reversed, because there will be trades all the way down. If the move down is unclear and two-sided, traders will trade it like any other two-sided market and take trades in both directions. If it is a very strong bear trend, traders will almost exclusively take shorts. If there are trades all the way down, then why should a trader ever think about a major trend reversal? Because the trader’s equation is excellent if a trader enters early, just as the market is turning down from its test of the old high. The reward is often many times larger than the risk, and even if the probability is only 40 to 50 percent, the result is a very favorable trader’s equation. Most lead to trading ranges, but still profitable trades.
@@ -2778,7 +2778,7 @@ K线越大，突破越可能成功。
 > Everything is relative to the chart in front of you and looks different on higher and smaller time frame charts. If the legs that break off the trend line and test the trend’s extreme have only two bars on a 5 minute chart, traders will not see this as a major trend reversal, although those legs might have about 10 bars on a 1 minute chart and create an excellent major trend reversal setup. Similarly, if a bull trend that has lasted 60 bars has a pullback and a test where the legs have 20 or more bars, they might create a major trend reversal setup on the 15 minute chart, but when the legs have that many bars on the 5 minute chart, traders will not use the term ``major trend reversal.’’ They will instead look for other patterns. For example, if the pullback that breaks a bull trend line has 30 bars, traders will see it as a bear trend (all pullbacks in bull trends are smaller bear trends), and will look for a break above the bear trend line and then a major trend line up. If the rally also has about 30 bars, they will see it as a new bull trend, and look for a break below its trend line and a major trend reversal down. They realize that these legs have only 10 bars on the 15 minute chart and form a major trend reversal on that chart, but that is not the chart that they are trading, and they will use terms that are appropriate for the chart in front of them.
 
 
-平均水准的建仓形态，大约有40％的概率带来一段可盈利的波段，30％的概率是小亏，30％的概率是小赚。大多数最终形成交易区间，而不是反向趋势，但仍然有70％的概率至少小赚。最好的建仓形态，有60％的概率带来可盈利的波段交易。
+平均水准的建仓形态，大约有40%的概率带来一段可盈利的波段，30%的概率是小亏，30%的概率是小赚。大多数最终形成交易区间，而不是反向趋势，但仍然有70%的概率至少小赚。最好的建仓形态，有60%的概率带来可盈利的波段交易。
 
 
 > An average setup has about a 40 percent chance of leading to a profitable swing, a 30 percent chance of a small loss, and a 30 percent chance of a small profit. Most result in trading ranges instead of opposite trends, but there is still a 70 percent chance of at least a small profit. The best setups have a 60 percent chance of profitable swing trades.
@@ -2820,7 +2820,7 @@ K线越大，突破越可能成功。
 > The bear leg to bar 9 broke well below a longer trend line, the moving average, and the last higher low of the bull trend (bar 5), and it followed a previous sharp attempt at a trend reversal (the sell-off to bar 4). Also, it did not come close to testing the underside of the bull trend line or the bar 8 first pullback in the first leg down. All of these were signs of strength of the trend line break and increased the chances for at least a second leg down or an actual trend reversal. The bulls who bought around the bar 6 top of the bull trend saw the strength of the bears in the sell-off to bar 9 and the weakness of the bulls in the rally to bar 10, and were disappointed by the price action. They used the weak rally to bar 10 as an opportunity to exit their longs with a small loss, and they were not willing to buy again until the market traded lower. The bulls wanted to see signs of strength before buying, but none came, so they sat on the sidelines as the market sold off to bar 11.
 
 
-有些交易者喜欢看到涨向更低的高点这波上涨出现斐波那契61.8％回撤。然而，61.8％回撤从来不像这个数字让人以为的那么精确，其可能性大概并不比60％、63％或67％的回调更大，而且如今交易已经如此计算机化，它很可能已经失去价值。比如，一位交易者在他认为的空头波段中做空50％回调，他可能把风险设到新高（第6根K线之上），以换取对第9根K线那段空头急速行情底部的测试。这样他的回报等于风险；又因为他把这波上涨看成回调，他的做空至少有60％的成功概率。如果市场回撤得更高，那么有一种说法是：67％的回撤比61.8％的回撤更重要。一旦回调涨过50％，空头行情恢复的机会就变小了，比如说变成50％。一旦概率到50％或更低，交易者若还要做空，就需要更多回报。由于他们的止损在第6根K线的高点上方，他们可能想要两倍于风险的回报。这意味着他们可能在67％回撤处做空，因为这样一来，对第9根K线低点的测试会带来两倍于风险的回报。
+有些交易者喜欢看到涨向更低的高点这波上涨出现斐波那契61.8%回撤。然而，61.8%回撤从来不像这个数字让人以为的那么精确，其可能性大概并不比60%、63%或67%的回调更大，而且如今交易已经如此计算机化，它很可能已经失去价值。比如，一位交易者在他认为的空头波段中做空50%回调，他可能把风险设到新高（第6根K线之上），以换取对第9根K线那段空头急速行情底部的测试。这样他的回报等于风险；又因为他把这波上涨看成回调，他的做空至少有60%的成功概率。如果市场回撤得更高，那么有一种说法是：67%的回撤比61.8%的回撤更重要。一旦回调涨过50%，空头行情恢复的机会就变小了，比如说变成50%。一旦概率到50%或更低，交易者若还要做空，就需要更多回报。由于他们的止损在第6根K线的高点上方，他们可能想要两倍于风险的回报。这意味着他们可能在67%回撤处做空，因为这样一来，对第9根K线低点的测试会带来两倍于风险的回报。
 
 
 > Some traders like to see a Fibonacci 61.8 percent retracement on the rally to the lower high. However, a 61.8 percent retracement is never as precise as the number leads one to believe, and probably no more likely than a 60, 63, or 67 percent pullback, and it has probably lost value now that trading has become so computerized. For example, if a trader is selling a 50 percent pullback in what he believes is a bear swing, he might risk to a new high (above bar 6) to get a test of the bar 9 bottom of the bear spike. His reward equals his risk, and since he sees the rally as a pullback, his short has at least a 60 percent probability of success. If the market retraced higher, there is an argument that a 67 percent retracement is more important than a 61.8 percent retracement. Once a pullback rallies to above 50 percent, the chance of the bear resuming becomes less, let’s say 50 percent. Once the probability is 50 percent or less, traders will need more of a reward if they are going to short. Since their stop is above the bar 6 high, they might want a reward that is twice the size of their risk. This means that they might short a 67 percent retracement, because then a test of the bar 9 low would create a reward that is twice as large as their risk.
@@ -2850,19 +2850,19 @@ Emini 出现了先更低的低点、后更高的低点的主要趋势反转（�
 > The bull trend bar after bar 9 reversed the highs and closes of many prior bars, which is a sign of a strong bull reversal. It closed above the close of every bar since bar 6 and its high was above the high of every bar since the bar after bar 6. The more highs and closes that a strong bull bar reverses, the stronger the bull reversal and the more likely that there will be follow-through buying (higher prices).
 
 
-主要趋势反转中最早的入场点，往往看起来并不强势，比如第3根和第9根K线那两处。这意味着成功概率常常低于50％。不过潜在回报此时最大，结果通常是正的交易者等式。交易者可以等出现明确的始终入场做多反转之后再买入，这通常能把概率提高到60％或更高。而到那时，剩下的利润更少了，风险通常也更大（保护性止损离得更远），不过交易者等式通常仍然为正。例如，多头本可以等到第3根K线之后那根多头趋势K线之上买入做波段，或者在第4根K线收盘时买入做剥头皮。他们也可以在第9根K线之后那根多头趋势K线的收盘价买入，或者在紧随其后那根多头趋势K线的收盘价买入。
+主要趋势反转中最早的入场点，往往看起来并不强势，比如第3根和第9根K线那两处。这意味着成功概率常常低于50%。不过潜在回报此时最大，结果通常是正的交易者等式。交易者可以等出现明确的始终入场做多反转之后再买入，这通常能把概率提高到60%或更高。而到那时，剩下的利润更少了，风险通常也更大（保护性止损离得更远），不过交易者等式通常仍然为正。例如，多头本可以等到第3根K线之后那根多头趋势K线之上买入做波段，或者在第4根K线收盘时买入做剥头皮。他们也可以在第9根K线之后那根多头趋势K线的收盘价买入，或者在紧随其后那根多头趋势K线的收盘价买入。
 
 
 > The earliest entries in major trend reversals often do not look strong, like at bars 3 and 9. This means that the probability of success is often less than 50 percent. However, the potential reward is at its greatest and the result usually is a positive trader’s equation. Traders can wait for a clear always-in long reversal before buying, and this usually increases the probability to 60 percent or higher. At that point, there is less profit remaining and the risk is usually larger (the protective stop is further away), but the trader’s equation is usually still positive. For example, the bulls could have waited to buy above the bull trend bar that followed bar 3 for a swing, or on the close of bar 4 for a scalp. They also could have bought on the close of the bull trend bar after bar 9 or on the close of the bull trend bar that followed it.
 
 
-这是一个平均水准的主要趋势反转尝试的好例子：建仓形态和背景可以接受但不强，反转向上最终导向交易区间而不是多头趋势，而这种情况大约占70％。第3根K线的更低的低点带来了对第1根K线高点的测试，那很可能是正在形成的交易区间的顶部。有些交易者在那里全部或部分止盈，另一些则继续持有、期待第二段上涨，最后在交易区间突破失败的第10根K线处退出（在那根阴线转向下跌时，或在其低点下方）。第3根K线的更低的低点，给在第5根K线转向下跌时退出的交易者带来了剥头皮的利润，给在第10根K线之后的下跌反转中退出的交易者带来波段利润（至少是风险两倍的回报）。在第7根K线两段式更高的低点买入的交易者，如果持有到保护性止损被打，就是小额亏损；如果在均线上方出现四根K线的上涨后把止损移到保本，则在保本附近出场。在第9根K线双底更高的低点（比第3根K线更高）买入的交易者，这个低点同时也是第5根到第7根小空头趋势（牛旗）反转向上过程中的更低的低点，他们能够以至少两倍于风险的回报出场一部分或全部头寸（波段利润）。
+这是一个平均水准的主要趋势反转尝试的好例子：建仓形态和背景可以接受但不强，反转向上最终导向交易区间而不是多头趋势，而这种情况大约占70%。第3根K线的更低的低点带来了对第1根K线高点的测试，那很可能是正在形成的交易区间的顶部。有些交易者在那里全部或部分止盈，另一些则继续持有、期待第二段上涨，最后在交易区间突破失败的第10根K线处退出（在那根阴线转向下跌时，或在其低点下方）。第3根K线的更低的低点，给在第5根K线转向下跌时退出的交易者带来了剥头皮的利润，给在第10根K线之后的下跌反转中退出的交易者带来波段利润（至少是风险两倍的回报）。在第7根K线两段式更高的低点买入的交易者，如果持有到保护性止损被打，就是小额亏损；如果在均线上方出现四根K线的上涨后把止损移到保本，则在保本附近出场。在第9根K线双底更高的低点（比第3根K线更高）买入的交易者，这个低点同时也是第5根到第7根小空头趋势（牛旗）反转向上过程中的更低的低点，他们能够以至少两倍于风险的回报出场一部分或全部头寸（波段利润）。
 
 
 > This is a good example of an average major trend reversal attempt, where the setups and context are acceptable but not strong, and the reversals up led to a trading range and not a bull trend, as is the case about 70 percent of the time. The bar 3 lower low led to a test of the bar 1 high, which was a likely top of an evolving trading range. Some traders took full or partial profits there, while others held, expecting a second leg up, and exited on the failed breakout of the trading range at bar 10 (as the bear bar turned down, or below its low). The bar 3 lower low resulted in a scalper’s profit for traders who exited as bar 5 turned down, and a swing profit (a reward that was at least twice as large as the risk) for traders who exited in the reversal down after bar 10. The traders who bought the bar 7 two-legged higher low either had a small loss if they held until their protective stop was hit, or they got out around breakeven if they moved their stop to breakeven after a four-bar rally above the moving average. The traders who bought the bar 9 double bottom higher low (higher than bar 3), which was also a lower low for the reversal up from the small bear trend (bull flag) from bar 5 to bar 7, were able to exit some or all with a reward that was at least twice as large as their risk (a swing profit).
 
 
-在这样一个平均水准的建仓形态里，获得可盈利波段的机会约为40％，大约30％的机会是小赚，30％的机会是保护性止损被打（小额亏损）。结果仍是一套能盈利的策略。在最强的建仓形态里，获得可盈利波段的机会是60％或更高，也许只有30％到40％的机会是保护性止损被打、导致小额亏损。由于交易者等式非常有利，这对所有交易者来说都是极好的建仓形态，包括新手。
+在这样一个平均水准的建仓形态里，获得可盈利波段的机会约为40%，大约30%的机会是小赚，30%的机会是保护性止损被打（小额亏损）。结果仍是一套能盈利的策略。在最强的建仓形态里，获得可盈利波段的机会是60%或更高，也许只有30%到40%的机会是保护性止损被打、导致小额亏损。由于交易者等式非常有利，这对所有交易者来说都是极好的建仓形态，包括新手。
 
 
 > In an average setup like this, the chance of a profitable swing is about 40 percent, and there is about a 30 percent chance of a small profit, and a 30 percent chance of the protective stop being hit (a small loss). The result is still a profitable strategy. In the strongest setups, the chance of a profitable swing is 60 percent or greater, and maybe only a 30 to 40 percent chance of the protective stop being hit and leading to a small loss. Because the trader’s equation is so strong, this is an excellent setup for all traders, including beginners.
@@ -11258,356 +11258,179 @@ AAPL 处在开盘即趋势空头日里。第2根K线是一个两根K线反转建
 
 # 附录 C · 中文主题索引
 
-
-
 > 原书 Index 是按英文页码排的索引；本译本按**术语 → 章节**重建，便于对照检索（图号另见各章正文）。
 
-
-
-**价格行为**（price action）　引言、第一部分导言、第3章、第4章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第24章、第25章、术语表
-
-**K线**（bar）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第二部分导言、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**蜡烛线**（candle）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第二部分导言、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**趋势K线**（trend bar）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**十字星**（doji）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第11章、第三部分导言、第15章、第16章、第20章、第21章、第23章、第24章、第25章、术语表
-
-**十字星K线**（doji bar）　第5章、第三部分导言、第24章
-
-**信号K线**（signal bar）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第24章、第25章、术语表
-
-**入场K线**（entry bar）　引言、第一部分导言、第3章、第7章、第8章、第9章、第16章、第24章、术语表
-
-**建仓形态**（setup）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**数K线**（bar counting）　引言、第4章、第24章
-
-**高1**（high 1）　引言、第3章、第5章、第7章、第13章、第21章、第24章、术语表
-
-**高2**（high 2）　引言、第一部分导言、第3章、第5章、第7章、第9章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
-
-**高3**（high 3）　术语表
-
-**高4**（high 4）　引言
-
-**低1**（low 1）　引言、第一部分导言、第3章、第4章、第5章、第7章、第15章、第16章、第18章、第24章、术语表
-
-**低2**（low 2）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第15章、第18章、第19章、第21章、第23章、第24章、术语表
-
-**内包K线**（inside bar）　第一部分导言、第3章、第5章、第7章、第8章、第15章、第16章、第18章、第21章、第24章、术语表
-
-**外包K线**（outside bar）　第9章、术语表
-
-**外包下跌K线**（outside down bar）　第24章
-
-**ii形态（内包内包）**（ii）　第3章、第4章、第7章、第15章、第16章、第19章、第21章、第24章、术语表
-
-**铁丝网**（barbwire）　第9章、第三部分导言、第18章、第19章
-
-**缺口**（gap）　引言、第一部分导言、第1章、第3章、第4章、第7章、第15章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**缺口K线**（gap bar）　第4章、第15章、第18章、第21章、第22章、第23章、第24章、术语表
-
-**均线缺口K线**（EMA gap bar）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
-
-**趋势**（trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**多头趋势**（bull trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**空头趋势**（bear trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**强趋势**（strong trend）　引言、第一部分导言、第4章、第5章、第9章、第15章、第19章、第24章、第25章
-
-**急速行情**（spike）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第9章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、术语表
-
-**通道**（channel）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、术语表
-
-**微型通道**（micro channel）　第一部分导言、第24章
-
-**趋势通道线**（trend channel line）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
-
-**趋势线**（trend line）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第24章、第25章、术语表
-
-**急速与通道**（spike and channel）　第一部分导言、第4章、第5章、第7章、第19章、第21章、第24章
-
-**楼梯形态**（stairs）　第5章、第23章、第24章
-
-**行情段**（leg）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第12章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**两段式回调**（two-legged pullback）　第5章、第19章、第22章、第24章
-
-**波段**（swing）　引言、第一部分导言、第1章、第2章、第3章、第5章、第6章、第7章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第24章、第25章、术语表
-
-**摆动高点**（swing high）　引言、第一部分导言、第2章、第3章、第6章、第9章、第15章、第19章、第24章、术语表
-
-**摆动低点**（swing low）　引言、第一部分导言、第2章、第3章、第9章、第18章、第24章、术语表
-
-**回调**（pullback）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**修正**（correction）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第18章、第21章、第22章、第23章、第24章
-
-**回撤**（retracement）　引言、第一部分导言、第3章
-
-**上涨行情**（rally）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**抛售**（selloff）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**横盘**（sideways）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第18章、第19章、第20章、第23章、第24章、术语表
-
-**高潮**（climax）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第10章、第三部分导言、第15章、第16章、第19章、第21章、第22章、第23章、第24章
-
-**买入高潮**（buy climax）　第一部分导言、第4章、第7章、第15章、第16章、第21章、第24章
-
-**卖出高潮**（sell climax）　第一部分导言、第3章、第4章、第7章、第16章、第22章、第24章
-
-**衰竭**（exhaustion）　第4章、第24章
-
-**过靶**（overshoot）　引言、第一部分导言、第2章、第3章、第4章、第5章、第18章、第21章、术语表
-
-**未及靶位**（undershoot）　术语表
-
-**磁力位**（magnets）　第一部分导言、第4章、第9章、第22章、术语表
-
-**测量**（measurement）　引言、第一部分导言、术语表
-
-**突破**（breakout）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**突破模式**（breakout mode）　第15章、术语表
-
-**突破失败**（failed breakout）　第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第15章、第16章、第18章、第19章、第24章
-
-**突破回调**（breakout pullback）　第一部分导言、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第24章、术语表
-
-**突破回测**（breakout test）　引言、第一部分导言、第1章、第3章、第9章、第三部分导言、第16章、第21章、第22章、第24章
-
-**测量缺口**（measuring gap）　引言、第一部分导言、术语表
-
-**反转**（reversal）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**主要趋势反转**（major trend reversal）　第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第18章、第22章、第24章
-
-**小级别反转**（minor reversal）　第24章
-
-**高潮反转**（climactic reversal）　第一部分导言、第4章
-
-**最终旗形**（final flag）　第一部分导言、第3章、第4章、第5章、第7章、第8章、第15章、第16章、第18章、第19章、第21章、第22章、第24章
-
-**旗形**（flag）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**牛旗**（bull flag）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**熊旗**（bear flag）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**楔形**（wedge）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**三次推进**（three push）　第一部分导言、第4章、第5章、第6章、第8章、第21章、术语表
-
-**双顶**（double top）　第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**双底**（double bottom）　第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第三部分导言、第15章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
-
-**双顶熊旗**（double top bear flag）　第一部分导言、第4章、第9章、第18章、第19章、第21章、第22章、第24章
-
-**双底牛旗**（double bottom bull flag）　第一部分导言、第3章、第4章、第7章、第8章、第9章、第19章、第22章、第24章、术语表
-
-**趋势线突破**（trend line break）　第一部分导言、第2章、第3章、第4章、第5章、第13章、第18章、第21章、第22章、第24章
-
-**等距运动**（measured move）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第9章、第三部分导言、第15章、第16章、第18章、第19章、第22章、第24章、术语表
-
-**等距运动目标位**（measured move projection）　第5章、第9章、第15章、第19章、第22章、第24章
-
-**陷阱**（trap）　第9章、第16章
-
-**被套**（trapped）　第4章、第9章、第16章、第25章
-
-**最终旗形失败**（failed final flag）　第7章
-
-**始终入场**（always in）　第一部分导言、第3章、第4章、第7章、第三部分导言、第15章、第16章、第18章、第19章、第24章、第25章、术语表
-
-**始终做多**（always-in long）　第三部分导言、第15章、第19章、第24章
-
-**始终做空**（always-in short）　第三部分导言、第15章、第22章、第24章
-
-**剥头皮**（scalp）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第二部分导言、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第24章、第25章、术语表
-
-**剥头皮交易者**（scalper）　引言、第一部分导言、第9章、第三部分导言、第24章、术语表
-
-**波段交易**（swing trade）　第一部分导言、第1章、第13章、第三部分导言、第15章、第19章、第24章、第25章、术语表
-
-**日内交易**（day trade）　引言、第二部分导言、第22章、第23章、第24章
-
-**反向操作**（fade）　引言、第一部分导言、第2章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第19章、第23章、第24章、第25章、术语表
-
-**逆势**（countertrend）　引言、第一部分导言、第2章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第24章、第25章、术语表
-
-**顺势**（with trend）　第一部分导言、第3章、第4章、第24章、术语表
-
-**交易区间**（trading range）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**窄幅交易区间**（tight trading range）　第4章、第7章、第11章、第三部分导言、第15章、第24章、第25章
-
-**止损**（stop）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第22章、第23章、第24章、第25章、术语表
-
-**保护性止损**（protective stop）　引言、第一部分导言、第1章、第3章、第4章、第9章、第11章、第三部分导言、第15章、第16章、第19章、第23章、第24章、术语表
-
-**移动止损**（trailing stop）　第9章
-
-**保本止损**（breakeven stop）　引言、第9章、第15章、第24章
-
-**买入止损单**（buy stop）　第7章、第16章
-
-**限价单**（limit order）　引言、第一部分导言、第3章、第9章、第11章、第15章、第16章、第23章、第24章、第25章
-
-**市价单**（market order）　第24章
-
-**成交**（fill）　引言、第一部分导言、第3章、第4章、第7章、第9章、第10章、第二部分导言、第12章、第13章、第三部分导言、第16章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**仓位规模**（position size）　第一部分导言、第1章、第3章、第4章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第19章、第22章、第23章、第24章、第25章
-
-**分批建仓**（scaling in）　第3章、第15章、第16章
-
-**分批止盈**（scaling out）　第9章、第25章
-
-**加仓**（adding）　第3章、第4章、第15章、第19章、第22章、术语表
-
-**止盈**（taking profits）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第9章、第三部分导言、第15章、第16章、第19章、第22章、第23章、第24章、第25章、术语表
-
-**止盈目标**（profit target）　引言、第一部分导言、第3章、第5章、第9章、第三部分导言、第15章、第16章、第19章、第22章、第24章、术语表
-
-**风险回报比**（risk-reward）　引言、第23章
-
-**交易者等式**（trader's equation）　第一部分导言、第3章、第三部分导言、第15章、第23章、第24章、第25章、术语表
-
-**数学期望**（the math）　第15章
-
-**优势**（edge）　引言、第11章、第13章、第三部分导言、第24章、第25章、术语表
-
-**时间级别**（time frame）　引言、第一部分导言、第3章、第4章、第5章、第7章、第13章、第三部分导言、第15章、第16章、第19章、第24章、术语表
-
-**5分钟图**（5-minute chart）　第一部分导言、第3章、第4章、第9章、第10章、第三部分导言、第15章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**日线图**（daily chart）　引言、第一部分导言、第5章、第9章、第11章、第三部分导言、第19章、第22章、第23章、第24章
-
-**周线图**（weekly chart）　引言、第22章
-
-**最小报价单位**（tick）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第24章、第25章、术语表
-
-**开盘区间**（opening range）　第三部分导言、第19章、第24章
-
-**头一个小时**（first hour）　第5章、第13章、第三部分导言、第18章、第19章、第25章
-
-**盘前**（premarket）　第11章、第14章、第三部分导言、第17章、第19章、第23章
-
-**盘后**（postmarket）　引言、第14章、第三部分导言、第17章、第19章、第24章
-
-**隔夜**（overnight）　第23章
-
-**Globex 电子盘**（Globex）　第14章、第17章
-
-**Emini 小型合约**（Emini）　引言、第一部分导言、第4章、第5章、第6章、第9章、第二部分导言、第12章、第13章、第三部分导言、第15章、第16章、第23章、第24章、第25章、术语表
-
-**十年期美国国债期货**（10-Year U.S. Treasury Note Futures）　第24章
-
-**机构**（institutional）　引言、第一部分导言、第2章、第3章、第4章、第11章、第三部分导言、第15章、第19章、第22章、第24章、第25章、术语表
-
-**基本面**（fundamentals）　引言、第一部分导言、第4章、第三部分导言、第24章、术语表
-
-**消息面**（news）　引言、第一部分导言、第4章、第22章、第23章
-
-**波动性**（volatility）　第23章
-
-**多头**（bull）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**空头**（bear）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
-
-**买压**（buying pressure）　第23章、第24章
-
-**卖压**（selling pressure）　第一部分导言、第1章、第4章、第24章
-
-**后续行情**（follow-through）　第一部分导言、第1章、第4章、第5章、第7章、第9章、第11章、第15章、第18章、第19章、第20章、第23章、第24章、术语表
-
-**二次入场**（second entry）　第一部分导言、第4章、第5章、第6章、第9章、第13章、第三部分导言、第19章、第21章、第24章
-
-**价格真空**（vacuum）　第4章、第7章、第三部分导言、第19章、术语表
-
-**恐慌**（panic）　第4章
-
-**更高的高点**（higher high）　引言、第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第15章、第18章、第19章、第22章、第24章
-
-**更低的高点**（lower high）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第13章、第15章、第16章、第19章、第21章、第22章、第24章
-
-**更高的低点**（higher low）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第15章、第16章、第18章、第19章、第21章、第22章、第24章
-
-**更低的低点**（lower low）　引言、第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第18章、第21章、第22章、第23章、第24章
-
-**更高的高点主要趋势反转**（higher high major trend reversal）　第24章
-
-**更低的高点主要趋势反转**（lower high major trend reversal）　第24章
-
-**反转K线**（reversal bar）　引言、第一部分导言、第2章、第4章、第5章、第7章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第23章、第24章、第25章、术语表
-
-**趋势反转**（trend reversal）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第15章、第18章、第21章、第22章、第23章、第24章、术语表
-
-**趋势反转尝试**（trend reversal attempt）　第一部分导言
-
-**微型双顶**（micro double top）　第一部分导言、第3章、第24章
-
-**微型双底**（micro double bottom）　第一部分导言、第3章、第4章、第24章
-
-**抛物线楔形**（parabolic wedge）　第5章
-
-**扩张三角形**（expanding triangle）　第一部分导言、第5章、第6章、第9章、第24章
-
-**开盘反转**（opening reversal）　第4章、第5章、第6章、第三部分导言、第18章、第19章、第24章
-
-**跳空开盘**（gap opening）　第三部分导言、第20章
-
-**日内交易**（day trading）　引言、第二部分导言、第22章、第23章、第24章
-
-**极端剥头皮**（extreme scalping）　第16章
-
-**高潮顶部**（climactic top）　第4章
-
-**高潮反转**（climax reversal）　第一部分导言、第4章
-
-**下跌真空**（sell vacuum）　第4章
-
-**上涨真空**（buy vacuum）　第7章
-
-**急速行情与高潮**（spike and climax）　第7章
-
-**趋势通道**（trend channel）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第22章、第24章、术语表
-
-**通道线**（channel line）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
-
-**始终入场**（always-in）　第一部分导言、第3章、第4章、第7章、第三部分导言、第15章、第16章、第18章、第19章、第24章、第25章、术语表
-
-**始终入场方向**（always-in position）　第一部分导言、第4章、第三部分导言、第15章、第16章、第18章、第19章、第24章
-
-**初始风险**（initial risk）　第15章、第24章
-
-**实际风险**（actual risk）　第24章
-
-**顺趋势**（with-trend）　引言、第一部分导言、第4章、第5章、第24章、第25章
-
-**趋势性交易区间**（trending trading range）　第一部分导言、第18章、第19章、第24章
-
-**头肩形态**（head and shoulders）　第22章
-
-**均线缺口**（moving average gap）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
-
-**均线缺口K线**（moving average gap bar）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
-
-**失败形态**（failure）　第9章
-
-**日盘**（day session）　第14章、第17章
-
-**期权**（options）　引言、第一部分导言、第22章、第23章
-
-**期权权利金**（option premium）　第23章
-
-**行权价**（strike price）　第23章
-
-**到期日**（expiration）　第23章
+- **价格行为**（price action）　引言、第一部分导言、第3章、第4章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第24章、第25章、术语表
+- **K线**（bar）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第二部分导言、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **蜡烛线**（candle）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第二部分导言、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **趋势K线**（trend bar）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **十字星**（doji）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第11章、第三部分导言、第15章、第16章、第20章、第21章、第23章、第24章、第25章、术语表
+- **十字星K线**（doji bar）　第5章、第三部分导言、第24章
+- **信号K线**（signal bar）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第24章、第25章、术语表
+- **入场K线**（entry bar）　引言、第一部分导言、第3章、第7章、第8章、第9章、第16章、第24章、术语表
+- **建仓形态**（setup）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
+- **数K线**（bar counting）　引言、第4章、第24章
+- **高1**（high 1）　引言、第3章、第5章、第7章、第13章、第21章、第24章、术语表
+- **高2**（high 2）　引言、第一部分导言、第3章、第5章、第7章、第9章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
+- **高3**（high 3）　术语表
+- **高4**（high 4）　引言
+- **低1**（low 1）　引言、第一部分导言、第3章、第4章、第5章、第7章、第15章、第16章、第18章、第24章、术语表
+- **低2**（low 2）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第15章、第18章、第19章、第21章、第23章、第24章、术语表
+- **内包K线**（inside bar）　第一部分导言、第3章、第5章、第7章、第8章、第15章、第16章、第18章、第21章、第24章、术语表
+- **外包K线**（outside bar）　第9章、术语表
+- **外包下跌K线**（outside down bar）　第24章
+- **ii形态（内包内包）**（ii）　第3章、第4章、第7章、第15章、第16章、第19章、第21章、第24章、术语表
+- **铁丝网**（barbwire）　第9章、第三部分导言、第18章、第19章
+- **缺口**（gap）　引言、第一部分导言、第1章、第3章、第4章、第7章、第15章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **缺口K线**（gap bar）　第4章、第15章、第18章、第21章、第22章、第23章、第24章、术语表
+- **均线缺口K线**（EMA gap bar）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
+- **趋势**（trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **多头趋势**（bull trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **空头趋势**（bear trend）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **强趋势**（strong trend）　引言、第一部分导言、第4章、第5章、第9章、第15章、第19章、第24章、第25章
+- **急速行情**（spike）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第9章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、术语表
+- **通道**（channel）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、术语表
+- **微型通道**（micro channel）　第一部分导言、第24章
+- **趋势通道线**（trend channel line）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
+- **趋势线**（trend line）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第24章、第25章、术语表
+- **急速与通道**（spike and channel）　第一部分导言、第4章、第5章、第7章、第19章、第21章、第24章
+- **楼梯形态**（stairs）　第5章、第23章、第24章
+- **行情段**（leg）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第12章、第13章、第14章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **两段式回调**（two-legged pullback）　第5章、第19章、第22章、第24章
+- **波段**（swing）　引言、第一部分导言、第1章、第2章、第3章、第5章、第6章、第7章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第24章、第25章、术语表
+- **摆动高点**（swing high）　引言、第一部分导言、第2章、第3章、第6章、第9章、第15章、第19章、第24章、术语表
+- **摆动低点**（swing low）　引言、第一部分导言、第2章、第3章、第9章、第18章、第24章、术语表
+- **回调**（pullback）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **修正**（correction）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第18章、第21章、第22章、第23章、第24章
+- **回撤**（retracement）　引言、第一部分导言、第3章
+- **上涨行情**（rally）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第17章、第18章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
+- **抛售**（selloff）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **横盘**（sideways）　引言、第一部分导言、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第18章、第19章、第20章、第23章、第24章、术语表
+- **高潮**（climax）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第10章、第三部分导言、第15章、第16章、第19章、第21章、第22章、第23章、第24章
+- **买入高潮**（buy climax）　第一部分导言、第4章、第7章、第15章、第16章、第21章、第24章
+- **卖出高潮**（sell climax）　第一部分导言、第3章、第4章、第7章、第16章、第22章、第24章
+- **衰竭**（exhaustion）　第4章、第24章
+- **过靶**（overshoot）　引言、第一部分导言、第2章、第3章、第4章、第5章、第18章、第21章、术语表
+- **未及靶位**（undershoot）　术语表
+- **磁力位**（magnets）　第一部分导言、第4章、第9章、第22章、术语表
+- **测量**（measurement）　引言、第一部分导言、术语表
+- **突破**（breakout）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **突破模式**（breakout mode）　第15章、术语表
+- **突破失败**（failed breakout）　第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第15章、第16章、第18章、第19章、第24章
+- **突破回调**（breakout pullback）　第一部分导言、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第24章、术语表
+- **突破回测**（breakout test）　引言、第一部分导言、第1章、第3章、第9章、第三部分导言、第16章、第21章、第22章、第24章
+- **测量缺口**（measuring gap）　引言、第一部分导言、术语表
+- **反转**（reversal）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **主要趋势反转**（major trend reversal）　第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第18章、第22章、第24章
+- **小级别反转**（minor reversal）　第24章
+- **高潮反转**（climactic reversal）　第一部分导言、第4章
+- **最终旗形**（final flag）　第一部分导言、第3章、第4章、第5章、第7章、第8章、第15章、第16章、第18章、第19章、第21章、第22章、第24章
+- **旗形**（flag）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **牛旗**（bull flag）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **熊旗**（bear flag）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **楔形**（wedge）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **三次推进**（three push）　第一部分导言、第4章、第5章、第6章、第8章、第21章、术语表
+- **双顶**（double top）　第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **双底**（double bottom）　第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第三部分导言、第15章、第18章、第19章、第21章、第22章、第23章、第24章、术语表
+- **双顶熊旗**（double top bear flag）　第一部分导言、第4章、第9章、第18章、第19章、第21章、第22章、第24章
+- **双底牛旗**（double bottom bull flag）　第一部分导言、第3章、第4章、第7章、第8章、第9章、第19章、第22章、第24章、术语表
+- **趋势线突破**（trend line break）　第一部分导言、第2章、第3章、第4章、第5章、第13章、第18章、第21章、第22章、第24章
+- **等距运动**（measured move）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第9章、第三部分导言、第15章、第16章、第18章、第19章、第22章、第24章、术语表
+- **等距运动目标位**（measured move projection）　第5章、第9章、第15章、第19章、第22章、第24章
+- **陷阱**（trap）　第9章、第16章
+- **被套**（trapped）　第4章、第9章、第16章、第25章
+- **最终旗形失败**（failed final flag）　第7章
+- **始终入场**（always in）　第一部分导言、第3章、第4章、第7章、第三部分导言、第15章、第16章、第18章、第19章、第24章、第25章、术语表
+- **始终做多**（always-in long）　第三部分导言、第15章、第19章、第24章
+- **始终做空**（always-in short）　第三部分导言、第15章、第22章、第24章
+- **剥头皮**（scalp）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第二部分导言、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第24章、第25章、术语表
+- **剥头皮交易者**（scalper）　引言、第一部分导言、第9章、第三部分导言、第24章、术语表
+- **波段交易**（swing trade）　第一部分导言、第1章、第13章、第三部分导言、第15章、第19章、第24章、第25章、术语表
+- **日内交易**（day trade）　引言、第二部分导言、第22章、第23章、第24章
+- **反向操作**（fade）　引言、第一部分导言、第2章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第19章、第23章、第24章、第25章、术语表
+- **逆势**（countertrend）　引言、第一部分导言、第2章、第3章、第4章、第5章、第7章、第9章、第15章、第16章、第24章、第25章、术语表
+- **顺势**（with trend）　第一部分导言、第3章、第4章、第24章、术语表
+- **交易区间**（trading range）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第11章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **窄幅交易区间**（tight trading range）　第4章、第7章、第11章、第三部分导言、第15章、第24章、第25章
+- **止损**（stop）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第22章、第23章、第24章、第25章、术语表
+- **保护性止损**（protective stop）　引言、第一部分导言、第1章、第3章、第4章、第9章、第11章、第三部分导言、第15章、第16章、第19章、第23章、第24章、术语表
+- **移动止损**（trailing stop）　第9章
+- **保本止损**（breakeven stop）　引言、第9章、第15章、第24章
+- **买入止损单**（buy stop）　第7章、第16章
+- **限价单**（limit order）　引言、第一部分导言、第3章、第9章、第11章、第15章、第16章、第23章、第24章、第25章
+- **市价单**（market order）　第24章
+- **成交**（fill）　引言、第一部分导言、第3章、第4章、第7章、第9章、第10章、第二部分导言、第12章、第13章、第三部分导言、第16章、第19章、第21章、第22章、第23章、第24章、第25章、术语表
+- **仓位规模**（position size）　第一部分导言、第1章、第3章、第4章、第9章、第11章、第12章、第13章、第三部分导言、第15章、第16章、第19章、第22章、第23章、第24章、第25章
+- **分批建仓**（scaling in）　第3章、第15章、第16章
+- **分批止盈**（scaling out）　第9章、第25章
+- **加仓**（adding）　第3章、第4章、第15章、第19章、第22章、术语表
+- **止盈**（taking profits）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第9章、第三部分导言、第15章、第16章、第19章、第22章、第23章、第24章、第25章、术语表
+- **止盈目标**（profit target）　引言、第一部分导言、第3章、第5章、第9章、第三部分导言、第15章、第16章、第19章、第22章、第24章、术语表
+- **风险回报比**（risk-reward）　引言、第23章
+- **交易者等式**（trader's equation）　第一部分导言、第3章、第三部分导言、第15章、第23章、第24章、第25章、术语表
+- **数学期望**（the math）　第15章
+- **优势**（edge）　引言、第11章、第13章、第三部分导言、第24章、第25章、术语表
+- **时间级别**（time frame）　引言、第一部分导言、第3章、第4章、第5章、第7章、第13章、第三部分导言、第15章、第16章、第19章、第24章、术语表
+- **5分钟图**（5-minute chart）　第一部分导言、第3章、第4章、第9章、第10章、第三部分导言、第15章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **日线图**（daily chart）　引言、第一部分导言、第5章、第9章、第11章、第三部分导言、第19章、第22章、第23章、第24章
+- **周线图**（weekly chart）　引言、第22章
+- **最小报价单位**（tick）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第12章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第21章、第24章、第25章、术语表
+- **开盘区间**（opening range）　第三部分导言、第19章、第24章
+- **头一个小时**（first hour）　第5章、第13章、第三部分导言、第18章、第19章、第25章
+- **盘前**（premarket）　第11章、第14章、第三部分导言、第17章、第19章、第23章
+- **盘后**（postmarket）　引言、第14章、第三部分导言、第17章、第19章、第24章
+- **隔夜**（overnight）　第23章
+- **Globex 电子盘**（Globex）　第14章、第17章
+- **Emini 小型合约**（Emini）　引言、第一部分导言、第4章、第5章、第6章、第9章、第二部分导言、第12章、第13章、第三部分导言、第15章、第16章、第23章、第24章、第25章、术语表
+- **十年期美国国债期货**（10-Year U.S. Treasury Note Futures）　第24章
+- **机构**（institutional）　引言、第一部分导言、第2章、第3章、第4章、第11章、第三部分导言、第15章、第19章、第22章、第24章、第25章、术语表
+- **基本面**（fundamentals）　引言、第一部分导言、第4章、第三部分导言、第24章、术语表
+- **消息面**（news）　引言、第一部分导言、第4章、第22章、第23章
+- **波动性**（volatility）　第23章
+- **多头**（bull）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第14章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **空头**（bear）　引言、第一部分导言、第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第20章、第21章、第22章、第23章、第24章、第25章、术语表
+- **买压**（buying pressure）　第23章、第24章
+- **卖压**（selling pressure）　第一部分导言、第1章、第4章、第24章
+- **后续行情**（follow-through）　第一部分导言、第1章、第4章、第5章、第7章、第9章、第11章、第15章、第18章、第19章、第20章、第23章、第24章、术语表
+- **二次入场**（second entry）　第一部分导言、第4章、第5章、第6章、第9章、第13章、第三部分导言、第19章、第21章、第24章
+- **价格真空**（vacuum）　第4章、第7章、第三部分导言、第19章、术语表
+- **恐慌**（panic）　第4章
+- **更高的高点**（higher high）　引言、第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第15章、第18章、第19章、第22章、第24章
+- **更低的高点**（lower high）　引言、第一部分导言、第1章、第3章、第4章、第5章、第6章、第7章、第13章、第15章、第16章、第19章、第21章、第22章、第24章
+- **更高的低点**（higher low）　引言、第一部分导言、第3章、第4章、第5章、第7章、第8章、第9章、第13章、第15章、第16章、第18章、第19章、第21章、第22章、第24章
+- **更低的低点**（lower low）　引言、第一部分导言、第3章、第4章、第5章、第6章、第7章、第9章、第18章、第21章、第22章、第23章、第24章
+- **更高的高点主要趋势反转**（higher high major trend reversal）　第24章
+- **更低的高点主要趋势反转**（lower high major trend reversal）　第24章
+- **反转K线**（reversal bar）　引言、第一部分导言、第2章、第4章、第5章、第7章、第9章、第13章、第三部分导言、第15章、第16章、第18章、第19章、第23章、第24章、第25章、术语表
+- **趋势反转**（trend reversal）　引言、第一部分导言、第1章、第3章、第4章、第5章、第7章、第8章、第9章、第15章、第18章、第21章、第22章、第23章、第24章、术语表
+- **趋势反转尝试**（trend reversal attempt）　第一部分导言
+- **微型双顶**（micro double top）　第一部分导言、第3章、第24章
+- **微型双底**（micro double bottom）　第一部分导言、第3章、第4章、第24章
+- **抛物线楔形**（parabolic wedge）　第5章
+- **扩张三角形**（expanding triangle）　第一部分导言、第5章、第6章、第9章、第24章
+- **开盘反转**（opening reversal）　第4章、第5章、第6章、第三部分导言、第18章、第19章、第24章
+- **跳空开盘**（gap opening）　第三部分导言、第20章
+- **日内交易**（day trading）　引言、第二部分导言、第22章、第23章、第24章
+- **极端剥头皮**（extreme scalping）　第16章
+- **高潮顶部**（climactic top）　第4章
+- **高潮反转**（climax reversal）　第一部分导言、第4章
+- **下跌真空**（sell vacuum）　第4章
+- **上涨真空**（buy vacuum）　第7章
+- **急速行情与高潮**（spike and climax）　第7章
+- **趋势通道**（trend channel）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第22章、第24章、术语表
+- **通道线**（channel line）　引言、第一部分导言、第2章、第3章、第4章、第5章、第6章、第9章、第10章、第13章、第16章、第18章、第19章、第21章、第24章、术语表
+- **始终入场**（always-in）　第一部分导言、第3章、第4章、第7章、第三部分导言、第15章、第16章、第18章、第19章、第24章、第25章、术语表
+- **始终入场方向**（always-in position）　第一部分导言、第4章、第三部分导言、第15章、第16章、第18章、第19章、第24章
+- **初始风险**（initial risk）　第15章、第24章
+- **实际风险**（actual risk）　第24章
+- **顺趋势**（with-trend）　引言、第一部分导言、第4章、第5章、第24章、第25章
+- **趋势性交易区间**（trending trading range）　第一部分导言、第18章、第19章、第24章
+- **头肩形态**（head and shoulders）　第22章
+- **均线缺口**（moving average gap）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
+- **均线缺口K线**（moving average gap bar）　第4章、第15章、第18章、第21章、第22章、第24章、术语表
+- **失败形态**（failure）　第9章
+- **日盘**（day session）　第14章、第17章
+- **期权**（options）　引言、第一部分导言、第22章、第23章
+- **期权权利金**（option premium）　第23章
+- **行权价**（strike price）　第23章
+- **到期日**（expiration）　第23章
